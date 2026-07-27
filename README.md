@@ -5,7 +5,7 @@
 
   <p align="center">
     <strong>3rd Year B.Tech Computer Science Engineering Student @ MVGR College</strong><br/>
-    <em>Architecting full-stack web platforms, multi-agent AI pipelines, and mobile apps with high velocity.</em>
+    <em>Building full-stack web applications and AI agent systems through rapid AI pair programming.</em>
   </p>
 
   <!-- INTERACTIVE BADGES -->
@@ -28,18 +28,18 @@
 
 <br/>
 
-<!-- INTERACTIVE TERMINAL CARD -->
+<!-- INTERACTIVE CODE CARD -->
 ```javascript
 const Rohith = {
   status: "3rd Year B.Tech Computer Science Student @ MVGR College",
   mindset: "Infinite Ideas per Problem (∞)",
   methodology: "AI-Native Pair Programming (Claude 3.7 & Gemini 2.5)",
-  coreStack: ["React 19", "Python", "TypeScript", "Supabase", "PostgreSQL", "Flutter"],
+  coreStack: ["React", "Python", "JavaScript", "Supabase", "PostgreSQL", "TailwindCSS"],
   livePlatforms: [
     "https://nccdigi.vercel.app",
     "https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"
   ],
-  quote: "I don't wait for solutions. I pair with AI agents to build & ship them."
+  quote: "Whenever I face a problem, I pair with AI to build and deploy a real solution."
 };
 ```
 
@@ -49,10 +49,10 @@ const Rohith = {
 
 ```bash
 $ npx rohith-ideation-engine --prompt="Identify friction point"
-> [INFO] Infinite ideas sparked...
+> [INFO] Idea sparked...
 > [AI-PAIR] Directing Claude 3.7 & Gemini 2.5 agents...
-> [BUILD] Architecting SQL schemas, FastMCP protocols & React 19 UI...
-> [STATUS] Deployed to production in record time. 🚀
+> [BUILD] Architecting Postgres schemas, FastMCP protocols & React UI...
+> [STATUS] Deployed to production live. 🚀
 ```
 
 ---
@@ -74,7 +74,7 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
         <a href="https://github.com/Rohith-Shimori"><b>💻 Source Code ↗</b></a>
       </p>
       <p align="center">
-        <code>React 19</code> <code>Supabase</code> <code>Postgres</code> <code>PWA</code> <code>Vite</code>
+        <code>React</code> <code>Supabase</code> <code>Postgres</code> <code>PWA</code> <code>Vite</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -98,17 +98,16 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 
 ---
 
-### 🧰 Technical Arsenal & Skill Matrix
+### 🧰 Tech Stack & Tools I Actually Use
 
 <div align="center">
 
-| Domain | Stack & Icons |
+| Category | Tech Stack & Icons |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,dart,postgres" alt="Languages" /> |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,vite,flutter,tailwind,html,css" alt="Frontend" /> |
-| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,express,vercel" alt="Backend" /> |
-| **Tools & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" /> |
-| **AI Orchestration** | `Claude 3.7` • `Gemini 2.5 Flash/Pro` • `Google ADK 2.0` • `FastMCP` • `RAG Pipelines` |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres" alt="Languages" /> |
+| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" alt="Backend" /> |
+| **Tools & AI Pair** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> &nbsp; `Claude 3.7` • `Gemini 2.5` • `FastMCP` |
 
 </div>
 
@@ -122,7 +121,7 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 
 ---
 
-### 📈 Real-Time GitHub Analytics & Metrics
+### 📈 GitHub Stats & Activity
 
 <div align="center">
   <br/>
