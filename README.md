@@ -8,19 +8,19 @@
     <em>Building full-stack web applications and AI agent systems through rapid AI pair programming.</em>
   </p>
 
-  <!-- INTERACTIVE BADGES -->
+  <!-- INTERACTIVE OFFICIAL BADGES -->
   <p align="center">
     <a href="https://rohith-shimori.github.io/portfolio/">
       <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-rohith--shimori.github.io-FF5E00?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://in.linkedin.com/in/pontapalli-rohith">
-      <img src="https://img.shields.io/badge/💼_LINKEDIN-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.credly.com/users/rohith-pontapalli">
-      <img src="https://img.shields.io/badge/🏅_CREDLY-Verified_Badges-F58220?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+      <img src="https://img.shields.io/badge/Credly-Verified_Badges-F58220?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
     </a>
     <a href="mailto:pontapallirohith@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_EMAIL-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -33,7 +33,7 @@
 const Rohith = {
   status: "3rd Year B.Tech Computer Science Student @ MVGR College",
   mindset: "Infinite Ideas per Problem (∞)",
-  methodology: "AI-Native Pair Programming (Claude 3.7 & Gemini 2.5)",
+  methodology: "AI-Native Pair Programming (Claude & Gemini)",
   coreStack: ["React", "Python", "JavaScript", "Supabase", "PostgreSQL", "TailwindCSS"],
   livePlatforms: [
     "https://nccdigi.vercel.app",
@@ -50,7 +50,7 @@ const Rohith = {
 ```bash
 $ npx rohith-ideation-engine --prompt="Identify friction point"
 > [INFO] Idea sparked...
-> [AI-PAIR] Directing Claude 3.7 & Gemini 2.5 agents...
+> [AI-PAIR] Directing Claude & Gemini agents...
 > [BUILD] Architecting Postgres schemas, FastMCP protocols & React UI...
 > [STATUS] Deployed to production live. 🚀
 ```
@@ -90,7 +90,7 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
         <a href="https://github.com/Rohith-Shimori"><b>💻 Source Code ↗</b></a>
       </p>
       <p align="center">
-        <code>Google ADK 2.0</code> <code>Gemini 2.5</code> <code>Python</code> <code>FastMCP</code>
+        <code>Google ADK</code> <code>Gemini</code> <code>Python</code> <code>FastMCP</code>
       </p>
     </td>
   </tr>
@@ -98,16 +98,17 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 
 ---
 
-### 🧰 Tech Stack & Tools I Actually Use
+### 🧰 Tech Stack & Official Logos
 
 <div align="center">
 
-| Category | Tech Stack & Icons |
+| Category | Official Tech Badges |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres" alt="Languages" /> |
-| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" alt="Backend" /> |
-| **Tools & AI Pair** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> &nbsp; `Claude 3.7` • `Gemini 2.5` • `FastMCP` |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Frontend & Web** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
+| **Backend & Cloud** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> |
+| **Tools & AI Pair** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> |
+| **AI Agents & MCP** | <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=for-the-badge&logo=python&logoColor=black" /> |
 
 </div>
 
@@ -121,12 +122,14 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats & Analytics
 
 <div align="center">
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohith-Shimori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Shimori&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-Shimori&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <br/><br/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohith-Shimori&theme=tokyonight" alt="Profile Details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohith-Shimori&theme=tokyonight" alt="Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Shimori&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
