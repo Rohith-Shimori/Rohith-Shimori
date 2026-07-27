@@ -1,80 +1,133 @@
 <div align="center">
 
-  <!-- DYNAMIC TYPING HEADER -->
-  <a href="https://rohith-shimori.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E05315&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%90%8B+I'm+Pontapalli+Rohith;AI-Native+Student+Developer+%40+MVGR+CSE;Pair+Programming+with+Claude+%26+Gemini;Building+%26+Shipping+Live+Production+Apps;Infinite+Ideas+per+Problem+%E2%88%9E" alt="Typing SVG" />
-  </a>
+  <!-- GLOWING TYPING HEADER BANNER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=FF5E00&center=true&vCenter=true&width=800&height=65&lines=%E2%9A%A1+PONTAPALLI+ROHITH;%F0%9F%A4%96+AI-Native+Student+Developer+%40+MVGR+CSE;%F0%9F%94%A5+Pair+Programming+with+Claude+%26+Gemini;%E2%88%9E+Infinite+Ideas+per+Problem+%E2%86%92+Live+Apps" alt="Rohith Typing Header" />
 
   <p align="center">
-    <strong>3rd Year B.Tech Computer Science Engineering Student @ MVGR College</strong><br/>
-    <em>Architecting full-stack web platforms, multi-agent AI pipelines, and mobile apps with high velocity.</em>
-  </p>
-
-  <!-- SHIELDS BADGES -->
-  <p align="center">
-    <a href="https://rohith-shimori.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-rohith--shimori.github.io-E05315?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://in.linkedin.com/in/pontapalli-rohith"><img src="https://img.shields.io/badge/LinkedIn-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.credly.com/users/rohith-pontapalli"><img src="https://img.shields.io/badge/Credly-Verified_Badges-F58220?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
-    <a href="mailto:pontapallirohith@gmail.com"><img src="https://img.shields.io/badge/Email-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://rohith-shimori.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-rohith--shimori.github.io-FF5E00?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://in.linkedin.com/in/pontapalli-rohith">
+      <img src="https://img.shields.io/badge/💼_LINKEDIN-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.credly.com/users/rohith-pontapalli">
+      <img src="https://img.shields.io/badge/🏅_CREDLY-Verified_Badges-F58220?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    </a>
+    <a href="mailto:pontapallirohith@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_EMAIL-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
 </div>
 
+<br/>
+
+```javascript
+const Rohith = {
+  status: "3rd Year B.Tech Computer Science Student @ MVGR College",
+  mindset: "Infinite Ideas per Problem (∞)",
+  methodology: "AI-Native Pair Programming (Claude 3.7 & Gemini 2.5)",
+  coreStack: ["React 19", "Python", "TypeScript", "Supabase", "PostgreSQL", "Flutter"],
+  livePlatforms: [
+    "https://nccdigi.vercel.app",
+    "https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"
+  ],
+  quote: "I don't wait for solutions. I pair with AI agents to build & ship them."
+};
+```
+
 ---
 
-### 💡 The Ideation Mindset (`∞`)
+### ⚡ The Ideation Engine (`∞`)
 
-> **Whenever I encounter a real-world problem or workflow friction, an endless stream of ideas sparks.**  
-> I leverage **AI-native pair programming** (Claude 3.7 & Gemini 2.5) to transform raw concepts into live, fully-functional production software in record time.
-
----
-
-### 🚀 Featured Live Deployed Projects
-
-| Project | Stack | Description | Live Demo / Code |
-| :--- | :--- | :--- | :--- |
-| 🛡️ **NCC Digital Training Platform** | `React 19` `Supabase` `Postgres` `PWA` | Full-stack digital operations platform for National Cadet Corps — syllabus tracking, drill exam simulator, wing analytics, and offline PWA sync. | [Live Site ↗](https://nccdigi.vercel.app) \| [GitHub ↗](https://github.com/Rohith-Shimori) |
-| 🔍 **TruthLens AI Agent** | `Google ADK 2.0` `Gemini 2.5` `Python` `FastMCP` | Enterprise 7-agent multimodal fact verification & deepfake detection pipeline built for the *Kaggle × Google AI Agents Capstone*. | [HuggingFace Space ↗](https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent) \| [GitHub ↗](https://github.com/Rohith-Shimori) |
-| 🏫 **MVGR NexUs Platform** | `Vite` `React` `PostgreSQL` `TailwindCSS` | Unified campus event management & student portal for MVGR College of Engineering. | [Live Portal ↗](https://mvgr-nexus.vercel.app) \| [GitHub ↗](https://github.com/Rohith-Shimori) |
+```bash
+$ npx rohith-ideation-engine --prompt="Identify friction point"
+> [INFO] Infinite ideas sparked...
+> [AI-PAIR] Directing Claude 3.7 & Gemini 2.5 agents...
+> [BUILD] Architecting SQL schemas, FastMCP protocols & React 19 UI...
+> [STATUS] Deployed to production in record time. 🚀
+```
 
 ---
 
-### 🛠️ Tech Stack & Engineering Arsenal
+### 🚀 Featured Production Systems
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ NCC Digital Training Platform</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Rohith-Shimori/portfolio/main/ncc_real.png" width="100%" alt="NCC Platform Preview" />
+      </p>
+      <p>Full-stack PWA digitizing National Cadet Corps operations — syllabus tracking, drill exam simulator, wing analytics, and offline sync.</p>
+      <p align="center">
+        <a href="https://nccdigi.vercel.app"><b>🌐 Live Demo ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Rohith-Shimori"><b>💻 Source Code ↗</b></a>
+      </p>
+      <p align="center">
+        <code>React 19</code> <code>Supabase</code> <code>Postgres</code> <code>PWA</code> <code>Vite</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 TruthLens AI Agent</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Rohith-Shimori/portfolio/main/truthlens_real.png" width="100%" alt="TruthLens Preview" />
+      </p>
+      <p>Enterprise 7-agent multimodal fact verification & deepfake detection pipeline built for the <i>Kaggle × Google AI Agents Capstone</i>.</p>
+      <p align="center">
+        <a href="https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"><b>🤗 HuggingFace Space ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Rohith-Shimori"><b>💻 Source Code ↗</b></a>
+      </p>
+      <p align="center">
+        <code>Google ADK 2.0</code> <code>Gemini 2.5</code> <code>Python</code> <code>FastMCP</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Technical Arsenal & Skill Matrix
 
 <div align="center">
 
-| Category | Technologies & Tools |
+| Domain | Stack & Icons |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript (ES6+)` `TypeScript` `C` `C++` `SQL` `Dart` |
-| **Frontend & Mobile** | `React 19` `Vite` `Flutter` `TailwindCSS` `HTML5` `CSS3` `PWA` |
-| **Backend & Cloud** | `Supabase` `PostgreSQL` `Node.js` `FastMCP` `REST APIs` `Vercel` `HuggingFace` |
-| **AI & Agentic Tech** | `Claude 3.7` `Gemini 2.5 Flash/Pro` `Google ADK 2.0` `RAG Pipelines` `Multi-Agent Design` |
-| **Tools & Dev Environment** | `Git` `GitHub CLI` `VS Code` `Figma` `Chrome DevTools` `Postman` |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,dart,postgres" alt="Languages" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,vite,flutter,tailwind,html,css" alt="Frontend" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,express,vercel" alt="Backend" /> |
+| **Tools & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" /> |
+| **AI Orchestration** | `Claude 3.7` • `Gemini 2.5 Flash/Pro` • `Google ADK 2.0` • `FastMCP` • `RAG` |
 
 </div>
 
 ---
 
-### 📊 GitHub Real-time Analytics & Stats
+### 📈 Live GitHub Contribution Graph & Activity
 
 <div align="center">
   <br/>
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Rohith-Shimori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rohith's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Shimori&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-Shimori&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Shimori&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohith-Shimori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Shimori&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Shimori&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-### 📫 Connect & Collaborate
-
-- 🌐 **Portfolio**: [rohith-shimori.github.io/portfolio](https://rohith-shimori.github.io/portfolio/)
-- 💼 **LinkedIn**: [Pontapalli Rohith](https://in.linkedin.com/in/pontapalli-rohith)
-- 🏅 **Credly Badges**: [Rohith Pontapalli](https://www.credly.com/users/rohith-pontapalli)
-- ✉️ **Email**: [pontapallirohith@gmail.com](mailto:pontapallirohith@gmail.com)
+### 🌐 Connect With Me
 
 <div align="center">
-  <br/>
-  <sub><em>Built with passion &amp; AI pair programming • Pontapalli Rohith © 2026</em></sub>
+  <a href="https://rohith-shimori.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-rohith--shimori.github.io-FF5E00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/pontapalli-rohith"><img src="https://img.shields.io/badge/LinkedIn-pontapalli--rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/rohith-pontapalli"><img src="https://img.shields.io/badge/Credly-rohith--pontapalli-F58220?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="mailto:pontapallirohith@gmail.com"><img src="https://img.shields.io/badge/Email-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><b>⚡ Engineered by Pontapalli Rohith with AI Pair Programming</b></sub>
 </div>
