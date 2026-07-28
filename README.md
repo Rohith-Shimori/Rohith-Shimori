@@ -19,7 +19,7 @@
 
   <br/>
 
-  <!-- QUICK ACTION SHIELDS -->
+  <!-- QUICK ACTION BADGES -->
   <p align="center">
     <a href="https://rohith-shimori.github.io/portfolio/">
       <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-rohith--shimori.github.io-FF5E00?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -129,6 +129,14 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rohith-Shimori/Rohith-Shimori/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+### 🏙️ 3D Isometric City Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rohith-Shimori/Rohith-Shimori/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City Graph" width="100%" />
 </div>
 
 ---
