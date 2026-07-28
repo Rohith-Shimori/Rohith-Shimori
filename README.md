@@ -1,89 +1,52 @@
 <div align="center">
 
-  <!-- MAC OS / TERMINAL HERO WINDOW -->
-  <table width="100%" style="background:#0D1117; border:1px solid #30363D; border-radius:10px; overflow:hidden">
-    <tr>
-      <td style="background:#161B22; padding:10px 15px; border-bottom:1px solid #30363D">
-        <span style="color:#FF5F56; font-size:14px">●</span>
-        <span style="color:#FFBD2E; font-size:14px; margin-left:4px">●</span>
-        <span style="color:#27C93F; font-size:14px; margin-left:4px">●</span>
-        <span style="color:#8B949E; font-family:monospace; font-size:12px; margin-left:12px">rohith@mvgr-cse: ~/dev-environment</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:20px; font-family:monospace; color:#58A6FF">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF5E00&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+PONTAPALLI+ROHITH;%F0%9F%A4%96+AI-Native+Student+Developer+%40+MVGR+CSE;%F0%9F%94%A5+Pair+Programming+with+Claude+%26+Gemini;%E2%88%9E+Infinite+Ideas+per+Problem+%E2%86%92+Live+Apps" alt="Rohith Terminal Header" />
-      </td>
-    </tr>
-  </table>
+  <!-- CAPSULE WAVE HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:FF5E00&height=200&section=header&text=PONTAPALLI%20ROHITH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI-Native%20Developer%20%7C%203rd%20Year%20CSE%20%40%20MVGR&descAlignY=62&descAlign=50" width="100%" alt="Rohith Header Banner" />
 
-  <br/>
+  <!-- DYNAMIC TYPING SLOGAN -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1000&color=FF5E00&center=true&vCenter=true&width=800&height=40&lines=%E2%9A%A1+Building+Full-Stack+Web+Platforms+%26+Multi-Agent+AI+Pipelines;%F0%9F%A4%96+AI-Native+Pair+Programming+with+Claude+%26+Gemini;%E2%88%9E+Infinite+Ideas+per+Problem+%E2%86%92+Production+Apps" alt="Typing Slogan" />
 
-  <!-- QUICK ACTION BADGES -->
-  <p align="center">
-    <a href="https://rohith-shimori.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-rohith--shimori.github.io-FF5E00?style=for-the-badge&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://in.linkedin.com/in/pontapalli-rohith">
-      <img src="https://img.shields.io/badge/LinkedIn-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.credly.com/users/rohith-pontapalli">
-      <img src="https://img.shields.io/badge/Credly-Verified_Badges-F58220?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
-    </a>
-    <a href="mailto:pontapallirohith@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <br/><br/>
+
+  <!-- BADGE STRIP -->
+  <a href="https://rohith-shimori.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-rohith--shimori.github.io-FF5E00?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://in.linkedin.com/in/pontapalli-rohith">
+    <img src="https://img.shields.io/badge/LinkedIn-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/users/rohith-pontapalli">
+    <img src="https://img.shields.io/badge/Credly-Verified_Badges-F58220?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  &nbsp;
+  <a href="mailto:pontapallirohith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pontapallirohith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
 <br/>
 
-### 🖥️ `neofetch` System Overview
+---
 
-```
-                      ROHITH@MVGR-CSE
-  /\_/\               ---------------
- ( o.o )              OS: AI-Native Engineering OS v2.5
-  > ^ <               Host: Pontapalli Rohith (3rd Year CSE)
-                      Institution: MVGR College of Engineering (GPA: 8.6)
-                      Kernel: Pair Programming (Claude & Gemini Engine)
-                      Uptime: 2+ Live Production Systems Deployed
-                      Ideation: ∞ Infinite Ideas per Problem
-                      Shell: zsh / FastMCP Protocol
-                      Core Stack: React 19 • Python • Supabase • Postgres • Tailwind
+### 👨‍💻 About Me
+
+```yaml
+Developer: Pontapalli Rohith
+Role: 3rd Year B.Tech Computer Science Student @ MVGR College of Engineering
+GPA: 8.6 / 10.0
+Focus: Full-Stack Web Development, Multi-Agent AI Systems & PWA Architectures
+Methodology: Rapid AI Pair Programming (Claude & Gemini)
+Mindset: "Infinite Ideas per Problem — Building & Shipping Fast"
 ```
 
 ---
 
-### ⚡ The Ideation Engine (`∞`)
+### 🚀 Production Systems & Featured Projects
 
-```bash
-$ npx rohith-ideation-engine --prompt="Identify friction point"
-> [INFO] Idea sparked...
-> [AI-PAIR] Directing Claude & Gemini agents...
-> [BUILD] Architecting Postgres schemas, FastMCP protocols & React UI...
-> [STATUS] Deployed to production live. 🚀
-```
-
----
-
-### 🕹️ Interactive Arcade: Whack-a-Mole Game
-
-<div align="center">
-  <a href="https://rohith-shimori.github.io/Rohith-Shimori/whack-a-mole/">
-    <img src="https://raw.githubusercontent.com/Rohith-Shimori/Rohith-Shimori/main/output/whack-a-mole.svg" width="100%" alt="Whack-a-Mole Arcade Banner" />
-  </a>
-  <p align="center">
-    <a href="https://rohith-shimori.github.io/Rohith-Shimori/whack-a-mole/"><b>🎮 Click Here to Play Whack-a-Mole Live in Browser ↗</b></a>
-  </p>
-</div>
-
----
-
-### 🚀 Featured Production Systems
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ NCC Digital Training Platform</h3>
@@ -94,11 +57,13 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
       </p>
       <p>Full-stack PWA digitizing National Cadet Corps operations — syllabus tracking, drill exam simulator, wing analytics, and offline sync.</p>
       <p align="center">
-        <a href="https://nccdigi.vercel.app"><b>🌐 Live Demo ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Rohith-Shimori"><b>💻 Source Code ↗</b></a>
+        <a href="https://nccdigi.vercel.app"><b>🌐 Live Production Demo ↗</b></a>
       </p>
       <p align="center">
-        <code>React</code> <code>Supabase</code> <code>Postgres</code> <code>PWA</code> <code>Vite</code>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -110,11 +75,13 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
       </p>
       <p>Enterprise 7-agent multimodal fact verification & deepfake detection pipeline built for the <i>Kaggle × Google AI Agents Capstone</i>.</p>
       <p align="center">
-        <a href="https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"><b>🤗 HuggingFace Space ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Rohith-Shimori"><b>💻 Source Code ↗</b></a>
+        <a href="https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"><b>🤗 HuggingFace Space Demo ↗</b></a>
       </p>
       <p align="center">
-        <code>Google ADK</code> <code>Gemini</code> <code>Python</code> <code>FastMCP</code>
+        <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=flat-square&logo=python&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -122,26 +89,43 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 
 ---
 
-### 🧰 Tech Stack & Official Logos
+### 🕹️ Interactive Arcade
+
+<div align="center">
+  <a href="https://rohith-shimori.github.io/Rohith-Shimori/whack-a-mole/">
+    <img src="https://raw.githubusercontent.com/Rohith-Shimori/Rohith-Shimori/main/output/whack-a-mole.svg" width="100%" alt="Whack-a-Mole Game" />
+  </a>
+  <br/>
+  <a href="https://rohith-shimori.github.io/Rohith-Shimori/whack-a-mole/">
+    <b>🎮 Play Whack-a-Mole Live in Browser ↗</b>
+  </a>
+</div>
+
+---
+
+### 🧰 Technical Arsenal
 
 <div align="center">
 
-| Category | Official Tech Badges |
+<br/>
+
+| Category | Skill Matrix & Stack |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-| **Frontend & Web** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
-| **Backend & Cloud** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> |
-| **Tools & AI Pair** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres" alt="Languages" /> |
+| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" alt="Backend" /> |
+| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
 | **AI Agents & MCP** | <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=for-the-badge&logo=python&logoColor=black" /> |
 
 </div>
 
 ---
 
-### 🐍 Live Contribution Eating Snake Game
+### 🐍 Contribution Activity & Snake Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rohith-Shimori/Rohith-Shimori/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Rohith-Shimori/Rohith-Shimori/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -152,15 +136,18 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-Shimori&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   <br/><br/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohith-Shimori&theme=tokyonight" alt="Profile Details" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohith-Shimori&theme=tokyonight" alt="Languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohith-Shimori&theme=tokyonight" alt="Profile Summary" />
+  &nbsp;
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohith-Shimori&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Shimori&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Shimori&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E00,100:0D1117&height=100&section=footer" width="100%" alt="Footer Wave" />
   <br/>
   <sub><b>⚡ Engineered by Pontapalli Rohith with AI Pair Programming</b></sub>
 </div>
