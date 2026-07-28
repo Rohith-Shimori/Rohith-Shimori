@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Whack-a-Mole animated preview</title>
+  <desc id="desc">Animated preview of a whack-a-mole game with three moles popping up from holes and a hammer striking in a loop.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.45" />
+    </filter>
+    <style>
+      .label { font: 700 36px system-ui, -apple-system, Segoe UI, Roboto, sans-serif; fill: #f0f6fc; }
+      .sub { font: 500 16px system-ui, -apple-system, Segoe UI, Roboto, sans-serif; fill: #8b949e; }
+      .hole { fill: #21262d; stroke: #30363d; stroke-width: 4; }
+      .rim { fill: #2f353d; }
+      .mole-body { fill: #f3c98b; }
+      .mole-ear { fill: #f2b56d; }
+      .mole-eye { fill: #1b1f23; }
+      .hammer-head { fill: #ff5e00; }
+      .hammer-handle { fill: #d29922; }
+
+      .mole { transform-box: fill-box; transform-origin: center bottom; transform: translateY(68px); }
+      #mole1 { animation: pop 3s ease-in-out infinite; }
+      #mole2 { animation: pop 3s ease-in-out infinite 0.9s; }
+      #mole3 { animation: pop 3s ease-in-out infinite 1.8s; }
+      #hammer { transform-box: fill-box; transform-origin: 76% 18%; animation: whack 3s ease-in-out infinite; }
+      #spark { opacity: 0; animation: hit 3s ease-in-out infinite; }
+
+      @keyframes pop {
+        0%, 12%, 100% { transform: translateY(68px); }
+        20%, 34% { transform: translateY(0); }
+        45%, 88% { transform: translateY(68px); }
+      }
+      @keyframes whack {
+        0%, 22%, 100% { transform: rotate(0deg); }
+        28% { transform: rotate(-26deg); }
+        34% { transform: rotate(8deg); }
+        40%, 86% { transform: rotate(0deg); }
+      }
+      @keyframes hit {
+        0%, 26%, 100% { opacity: 0; transform: scale(0.7); }
+        30% { opacity: 1; transform: scale(1); }
+        35% { opacity: 0; transform: scale(1.25); }
+      }
+    </style>
+  </defs>
+
+  <rect width="960" height="360" fill="url(#bg)" rx="20" />
+  <text x="48" y="74" class="label">Whack-a-Mole</text>
+  <text x="48" y="104" class="sub">Interactive demo available in this repository</text>
+
+  <ellipse class="hole" cx="240" cy="270" rx="120" ry="36" />
+  <ellipse class="hole" cx="480" cy="270" rx="120" ry="36" />
+  <ellipse class="hole" cx="720" cy="270" rx="120" ry="36" />
+
+  <g id="mole1" class="mole" filter="url(#shadow)">
+    <ellipse class="mole-body" cx="240" cy="224" rx="54" ry="52" />
+    <circle class="mole-ear" cx="208" cy="187" r="13" />
+    <circle class="mole-ear" cx="272" cy="187" r="13" />
+    <circle class="mole-eye" cx="225" cy="217" r="5" />
+    <circle class="mole-eye" cx="255" cy="217" r="5" />
+    <ellipse class="mole-eye" cx="240" cy="236" rx="7" ry="5" />
+  </g>
+
+  <g id="mole2" class="mole" filter="url(#shadow)">
+    <ellipse class="mole-body" cx="480" cy="224" rx="54" ry="52" />
+    <circle class="mole-ear" cx="448" cy="187" r="13" />
+    <circle class="mole-ear" cx="512" cy="187" r="13" />
+    <circle class="mole-eye" cx="465" cy="217" r="5" />
+    <circle class="mole-eye" cx="495" cy="217" r="5" />
+    <ellipse class="mole-eye" cx="480" cy="236" rx="7" ry="5" />
+  </g>
+
+  <g id="mole3" class="mole" filter="url(#shadow)">
+    <ellipse class="mole-body" cx="720" cy="224" rx="54" ry="52" />
+    <circle class="mole-ear" cx="688" cy="187" r="13" />
+    <circle class="mole-ear" cx="752" cy="187" r="13" />
+    <circle class="mole-eye" cx="705" cy="217" r="5" />
+    <circle class="mole-eye" cx="735" cy="217" r="5" />
+    <ellipse class="mole-eye" cx="720" cy="236" rx="7" ry="5" />
+  </g>
+
+  <ellipse class="rim" cx="240" cy="282" rx="124" ry="20" />
+  <ellipse class="rim" cx="480" cy="282" rx="124" ry="20" />
+  <ellipse class="rim" cx="720" cy="282" rx="124" ry="20" />
+
+  <g id="hammer" filter="url(#shadow)">
+    <rect class="hammer-head" x="628" y="96" width="130" height="34" rx="12" />
+    <rect class="hammer-handle" x="742" y="110" width="146" height="14" rx="7" transform="rotate(28 742 110)" />
+  </g>
+
+  <g id="spark" transform="translate(481 175)">
+    <path d="M0-22L6-6L22 0L6 6L0 22L-6 6L-22 0L-6-6Z" fill="#ffb347" />
+  </g>
+</svg>
