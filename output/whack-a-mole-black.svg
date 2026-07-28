@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+  <title id="title">Whack-a-Mole Contributions Preview - Black</title>
+  <desc id="desc">Animated whack-a-mole style banner in black color.</desc>
+  <rect width="800" height="220" fill="#f6f8fa"/>
+  <text x="30" y="45" fill="#000000" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Whack-a-Mole Contributions</text>
+  <text x="30" y="78" fill="#57606a" font-size="18" font-family="Segoe UI, Arial, sans-serif">Black variant</text>
+  <rect x="80" y="150" width="120" height="22" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="280" y="150" width="120" height="22" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="480" y="150" width="120" height="22" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <circle cx="140" cy="148" r="18" fill="#000000">
+    <animate attributeName="cy" values="148;120;148" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="340" cy="148" r="18" fill="#000000">
+    <animate attributeName="cy" values="148;148;118;148" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="148" r="18" fill="#000000">
+    <animate attributeName="cy" values="148;118;148;148" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="700" y="95" width="22" height="80" rx="10" fill="#000000">
+    <animateTransform attributeName="transform" type="rotate" values="-18 711 170;20 711 170;-18 711 170" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
