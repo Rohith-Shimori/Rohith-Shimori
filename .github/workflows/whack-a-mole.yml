@@ -1,0 +1,100 @@
+name: Generate Whack-a-Mole SVG
+
+on:
+  schedule:
+    # Run every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate whack-a-mole.svg
+        run: |
+          mkdir -p dist
+
+          # Lightweight animated SVG generated inline (no external dependencies).
+          # Maintainers can edit this heredoc to tweak colors, animation timing, and layout.
+          cat <<'SVG' > dist/whack-a-mole.svg
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+            <title id="title">Whack-a-Mole Contribution Animation</title>
+            <desc id="desc">Three cartoon moles pop in and out of holes in a looping animation with a swinging mallet.</desc>
+            <defs>
+              <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#0f172a"/>
+                <stop offset="100%" stop-color="#020617"/>
+              </linearGradient>
+              <style>
+                .label { font: 700 28px 'Segoe UI', sans-serif; fill: #e2e8f0; }
+                .sub { font: 500 14px 'Segoe UI', sans-serif; fill: #94a3b8; }
+                .hole { fill: #1e293b; }
+                .mole { fill: #c084fc; }
+                .face { fill: #111827; }
+                .mole-a, .mole-b, .mole-c { transform-box: fill-box; transform-origin: center bottom; }
+                .mole-a { animation: pop 2.4s ease-in-out infinite; }
+                .mole-b { animation: pop 2.4s ease-in-out .8s infinite; }
+                .mole-c { animation: pop 2.4s ease-in-out 1.6s infinite; }
+                .mallet { transform-origin: 760px 70px; animation: swing 1.2s ease-in-out infinite; }
+                @keyframes pop {
+                  0%, 18%, 100% { transform: translateY(46px) scaleY(.88); }
+                  28%, 48% { transform: translateY(0) scaleY(1); }
+                  60% { transform: translateY(46px) scaleY(.88); }
+                }
+                @keyframes swing {
+                  0%, 100% { transform: rotate(-16deg); }
+                  50% { transform: rotate(22deg); }
+                }
+              </style>
+            </defs>
+
+            <rect width="960" height="260" rx="16" fill="url(#bg)"/>
+            <text x="32" y="52" class="label">Whack-a-Mole Contributions</text>
+            <text x="32" y="76" class="sub">Auto-generated daily via GitHub Actions</text>
+
+            <ellipse cx="210" cy="194" rx="118" ry="24" class="hole"/>
+            <ellipse cx="470" cy="194" rx="118" ry="24" class="hole"/>
+            <ellipse cx="730" cy="194" rx="118" ry="24" class="hole"/>
+
+            <g class="mole-a">
+              <ellipse cx="210" cy="168" rx="42" ry="36" class="mole"/>
+              <circle cx="196" cy="163" r="4" class="face"/>
+              <circle cx="224" cy="163" r="4" class="face"/>
+              <ellipse cx="210" cy="178" rx="9" ry="5" class="face"/>
+            </g>
+
+            <g class="mole-b">
+              <ellipse cx="470" cy="168" rx="42" ry="36" class="mole"/>
+              <circle cx="456" cy="163" r="4" class="face"/>
+              <circle cx="484" cy="163" r="4" class="face"/>
+              <ellipse cx="470" cy="178" rx="9" ry="5" class="face"/>
+            </g>
+
+            <g class="mole-c">
+              <ellipse cx="730" cy="168" rx="42" ry="36" class="mole"/>
+              <circle cx="716" cy="163" r="4" class="face"/>
+              <circle cx="744" cy="163" r="4" class="face"/>
+              <ellipse cx="730" cy="178" rx="9" ry="5" class="face"/>
+            </g>
+
+            <g class="mallet">
+              <rect x="740" y="84" width="130" height="14" rx="7" fill="#f59e0b"/>
+              <rect x="706" y="64" width="52" height="42" rx="10" fill="#334155"/>
+            </g>
+          </svg>
+          SVG
+
+      - name: Push whack-a-mole.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
