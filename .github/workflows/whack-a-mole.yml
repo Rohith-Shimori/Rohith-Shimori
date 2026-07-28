@@ -1,4 +1,4 @@
-name: Generate Whack-a-Mole SVG
+name: Generate Whack-a-Mole SVGs
 
 on:
   schedule:
@@ -17,81 +17,89 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate whack-a-mole.svg
+      - name: Generate animated whack-a-mole SVG variants
         run: |
           mkdir -p dist
 
-          # Lightweight animated SVG generated inline (no external dependencies).
-          # Maintainers can edit this heredoc to tweak colors, animation timing, and layout.
-          cat <<'SVG' > dist/whack-a-mole.svg
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
-            <title id="title">Whack-a-Mole Contribution Animation</title>
-            <desc id="desc">Three cartoon moles pop in and out of holes in a looping animation with a swinging mallet.</desc>
-            <defs>
-              <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stop-color="#0f172a"/>
-                <stop offset="100%" stop-color="#020617"/>
-              </linearGradient>
-              <style>
-                .label { font: 700 28px 'Segoe UI', sans-serif; fill: #e2e8f0; }
-                .sub { font: 500 14px 'Segoe UI', sans-serif; fill: #94a3b8; }
-                .hole { fill: #1e293b; }
-                .mole { fill: #c084fc; }
-                .face { fill: #111827; }
-                .mole-a, .mole-b, .mole-c { transform-box: fill-box; transform-origin: center bottom; }
-                .mole-a { animation: pop 2.4s ease-in-out infinite; }
-                .mole-b { animation: pop 2.4s ease-in-out .8s infinite; }
-                .mole-c { animation: pop 2.4s ease-in-out 1.6s infinite; }
-                .mallet { transform-origin: 760px 70px; animation: swing 1.2s ease-in-out infinite; }
-                @keyframes pop {
-                  0%, 18%, 100% { transform: translateY(46px) scaleY(.88); }
-                  28%, 48% { transform: translateY(0) scaleY(1); }
-                  60% { transform: translateY(46px) scaleY(.88); }
-                }
-                @keyframes swing {
-                  0%, 100% { transform: rotate(-16deg); }
-                  50% { transform: rotate(22deg); }
-                }
-              </style>
-            </defs>
-
-            <rect width="960" height="260" rx="16" fill="url(#bg)"/>
-            <text x="32" y="52" class="label">Whack-a-Mole Contributions</text>
-            <text x="32" y="76" class="sub">Auto-generated daily via GitHub Actions</text>
-
-            <ellipse cx="210" cy="194" rx="118" ry="24" class="hole"/>
-            <ellipse cx="470" cy="194" rx="118" ry="24" class="hole"/>
-            <ellipse cx="730" cy="194" rx="118" ry="24" class="hole"/>
-
-            <g class="mole-a">
-              <ellipse cx="210" cy="168" rx="42" ry="36" class="mole"/>
-              <circle cx="196" cy="163" r="4" class="face"/>
-              <circle cx="224" cy="163" r="4" class="face"/>
-              <ellipse cx="210" cy="178" rx="9" ry="5" class="face"/>
-            </g>
-
-            <g class="mole-b">
-              <ellipse cx="470" cy="168" rx="42" ry="36" class="mole"/>
-              <circle cx="456" cy="163" r="4" class="face"/>
-              <circle cx="484" cy="163" r="4" class="face"/>
-              <ellipse cx="470" cy="178" rx="9" ry="5" class="face"/>
-            </g>
-
-            <g class="mole-c">
-              <ellipse cx="730" cy="168" rx="42" ry="36" class="mole"/>
-              <circle cx="716" cy="163" r="4" class="face"/>
-              <circle cx="744" cy="163" r="4" class="face"/>
-              <ellipse cx="730" cy="178" rx="9" ry="5" class="face"/>
-            </g>
-
-            <g class="mallet">
-              <rect x="740" y="84" width="130" height="14" rx="7" fill="#f59e0b"/>
-              <rect x="706" y="64" width="52" height="42" rx="10" fill="#334155"/>
-            </g>
+          # Orange variant (default preview)
+          cat <<'SVG' > dist/whack-a-mole-orange.svg
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+            <title id="title">Whack-a-Mole Contributions Preview - Orange</title>
+            <desc id="desc">Animated whack-a-mole style banner in orange color.</desc>
+            <rect width="800" height="220" fill="#0d1117"/>
+            <text x="30" y="45" fill="#FF5E00" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Whack-a-Mole Contributions</text>
+            <text x="30" y="78" fill="#c9d1d9" font-size="18" font-family="Segoe UI, Arial, sans-serif">Orange variant</text>
+            <rect x="80" y="150" width="120" height="22" rx="10" fill="#161b22" stroke="#30363d"/>
+            <rect x="280" y="150" width="120" height="22" rx="10" fill="#161b22" stroke="#30363d"/>
+            <rect x="480" y="150" width="120" height="22" rx="10" fill="#161b22" stroke="#30363d"/>
+            <circle cx="140" cy="148" r="18" fill="#FF5E00">
+              <animate attributeName="cy" values="148;120;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="340" cy="148" r="18" fill="#FF5E00">
+              <animate attributeName="cy" values="148;148;118;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="540" cy="148" r="18" fill="#FF5E00">
+              <animate attributeName="cy" values="148;118;148;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <rect x="700" y="95" width="22" height="80" rx="10" fill="#FF5E00">
+              <animateTransform attributeName="transform" type="rotate" values="-18 711 170;20 711 170;-18 711 170" dur="1.2s" repeatCount="indefinite"/>
+            </rect>
           </svg>
           SVG
 
-      - name: Push whack-a-mole.svg to the output branch
+          # Red variant
+          cat <<'SVG' > dist/whack-a-mole-red.svg
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+            <title id="title">Whack-a-Mole Contributions Preview - Red</title>
+            <desc id="desc">Animated whack-a-mole style banner in red color.</desc>
+            <rect width="800" height="220" fill="#0d1117"/>
+            <text x="30" y="45" fill="#FF3333" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Whack-a-Mole Contributions</text>
+            <text x="30" y="78" fill="#c9d1d9" font-size="18" font-family="Segoe UI, Arial, sans-serif">Red variant</text>
+            <rect x="80" y="150" width="120" height="22" rx="10" fill="#161b22" stroke="#30363d"/>
+            <rect x="280" y="150" width="120" height="22" rx="10" fill="#161b22" stroke="#30363d"/>
+            <rect x="480" y="150" width="120" height="22" rx="10" fill="#161b22" stroke="#30363d"/>
+            <circle cx="140" cy="148" r="18" fill="#FF3333">
+              <animate attributeName="cy" values="148;120;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="340" cy="148" r="18" fill="#FF3333">
+              <animate attributeName="cy" values="148;148;118;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="540" cy="148" r="18" fill="#FF3333">
+              <animate attributeName="cy" values="148;118;148;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <rect x="700" y="95" width="22" height="80" rx="10" fill="#FF3333">
+              <animateTransform attributeName="transform" type="rotate" values="-18 711 170;20 711 170;-18 711 170" dur="1.2s" repeatCount="indefinite"/>
+            </rect>
+          </svg>
+          SVG
+
+          # Black variant
+          cat <<'SVG' > dist/whack-a-mole-black.svg
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+            <title id="title">Whack-a-Mole Contributions Preview - Black</title>
+            <desc id="desc">Animated whack-a-mole style banner in black color.</desc>
+            <rect width="800" height="220" fill="#f6f8fa"/>
+            <text x="30" y="45" fill="#000000" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Whack-a-Mole Contributions</text>
+            <text x="30" y="78" fill="#57606a" font-size="18" font-family="Segoe UI, Arial, sans-serif">Black variant</text>
+            <rect x="80" y="150" width="120" height="22" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+            <rect x="280" y="150" width="120" height="22" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+            <rect x="480" y="150" width="120" height="22" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+            <circle cx="140" cy="148" r="18" fill="#000000">
+              <animate attributeName="cy" values="148;120;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="340" cy="148" r="18" fill="#000000">
+              <animate attributeName="cy" values="148;148;118;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="540" cy="148" r="18" fill="#000000">
+              <animate attributeName="cy" values="148;118;148;148" dur="1.6s" repeatCount="indefinite"/>
+            </circle>
+            <rect x="700" y="95" width="22" height="80" rx="10" fill="#000000">
+              <animateTransform attributeName="transform" type="rotate" values="-18 711 170;20 711 170;-18 711 170" dur="1.2s" repeatCount="indefinite"/>
+            </rect>
+          </svg>
+          SVG
+
+      - name: Push generated SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

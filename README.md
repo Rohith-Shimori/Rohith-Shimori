@@ -1,59 +1,45 @@
 # Pontapalli Rohith (Rohith-Shimori)
 
-[🌐 Portfolio](https://rohith-shimori.github.io/portfolio/) • [LinkedIn](https://in.linkedin.com/in/pontapalli-rohith) • pontapallirohith@gmail.com
+[Portfolio](https://rohith-shimori.github.io/portfolio/) • [LinkedIn](https://in.linkedin.com/in/pontapalli-rohith) • [Email](mailto:pontapallirohith@gmail.com)
 
 ## TL;DR
-Full‑stack AI engineer & 3rd‑year CSE student (MVGR) — building production web apps and AI agents with React, Python, Supabase, Postgres, and multimodal agent architectures. Open to internships and collaborations.
-
----
+Full-stack AI engineer and 3rd-year CSE student at MVGR building production-ready web and AI systems with React, Python, Supabase, and Postgres.
 
 ## Featured Projects
 ### 1) NCC Digital Training Platform
 React • Supabase • Postgres • PWA  
-A PWA to digitize NCC operations: syllabus tracking, drill exam simulator, wing analytics, and offline sync.  
-Live: https://nccdigi.vercel.app • Source: https://github.com/Rohith-Shimori (see project repo)
+Digitizes NCC operations with syllabus tracking, drill exam simulation, wing analytics, and offline-first workflows.  
+[Live Demo](https://nccdigi.vercel.app) • [Source](https://github.com/Rohith-Shimori)
 
-### 2) TruthLens — Multimodal Fact Verification Agent
+### 2) TruthLens
 Python • Google ADK • Hugging Face • FastMCP  
-Enterprise-capable 7-agent pipeline for fact-checking and deepfake detection (Kaggle × Google AI Agents Capstone).  
-Space: https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent • Source: https://github.com/Rohith-Shimori
-
-(See more projects in my portfolio: https://rohith-shimori.github.io/portfolio/)
-
----
+Multimodal fact-verification and deepfake-analysis agent pipeline built for Kaggle × Google AI Agents Capstone.  
+[Live Demo](https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent) • [Source](https://github.com/Rohith-Shimori)
 
 ## Skills
-- Languages: Python, JavaScript (ESNext), TypeScript  
-- Frontend: React, Vite, TailwindCSS, PWA patterns  
-- Backend / DB: Supabase, Postgres, REST/GraphQL basics  
-- AI / ML: Hugging Face, model orchestration, agent pipelines (FastMCP/ADK)  
-- Tools: Git, Docker, Vercel, CI (GitHub Actions)
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Frontend:** React, Vite, Tailwind CSS, PWA patterns
+- **Backend & Data:** Supabase, PostgreSQL, REST APIs
+- **AI/ML:** Agent orchestration, multimodal workflows, prompt/system design
+- **Tools:** Git, GitHub Actions, Vercel, Docker
 
----
+## Quick GitHub Stats
+![GitHub profile details for Rohith-Shimori](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohith-Shimori&theme=tokyonight)
+![Repository language distribution for Rohith-Shimori](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohith-Shimori&theme=tokyonight)
 
-## Quick Stats
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohith-Shimori&theme=tokyonight)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohith-Shimori&theme=tokyonight)
+## Whack-a-Mole Preview
+![Animated orange whack-a-mole contribution banner](output/whack-a-mole-orange.svg)
 
----
-
-## Contribution Heatmap
-*Animated Whack-a-Mole from workflow (fun visual kept lower in layout).*  
-![Whack-a-Mole](output/whack-a-mole.svg)
-
----
+Variant links: [Red](output/whack-a-mole-red.svg) • [Black](output/whack-a-mole-black.svg)
 
 ## Education & Achievements
-- B.Tech — CSE, MVGR College of Engineering — GPA: 8.6  
-- Verified digital badges (Credly) & capstone projects (TruthLens).
-
----
+- B.Tech, Computer Science and Engineering, MVGR College of Engineering (GPA: 8.6)
+- Kaggle × Google AI Agents Capstone contributor
+- Credly verified badges: [View profile](https://www.credly.com/users/rohith-pontapalli)
 
 ## Contact
-- Email: pontapallirohith@gmail.com  
-- LinkedIn: https://in.linkedin.com/in/pontapalli-rohith  
-- Portfolio: https://rohith-shimori.github.io/portfolio/
-
----
+- Email: [pontapallirohith@gmail.com](mailto:pontapallirohith@gmail.com)
+- LinkedIn: [pontapalli-rohith](https://in.linkedin.com/in/pontapalli-rohith)
+- Portfolio: [rohith-shimori.github.io/portfolio](https://rohith-shimori.github.io/portfolio/)
 
 *Engineered with AI pair programming.*
