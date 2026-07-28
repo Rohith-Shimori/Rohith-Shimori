@@ -1,14 +1,25 @@
 <div align="center">
 
-  <!-- GLOWING NEON TYPING BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=28&pause=1000&color=FF5E00&center=true&vCenter=true&width=800&height=65&lines=%E2%9A%A1+PONTAPALLI+ROHITH;%F0%9F%A4%96+AI-Native+Student+Developer+%40+MVGR+CSE;%F0%9F%94%A5+Pair+Programming+with+Claude+%26+Gemini;%E2%88%9E+Infinite+Ideas+per+Problem+%E2%86%92+Live+Apps" alt="Rohith Typing Header" />
+  <!-- MAC OS / TERMINAL HERO WINDOW -->
+  <table width="100%" style="background:#0D1117; border:1px solid #30363D; border-radius:10px; overflow:hidden">
+    <tr>
+      <td style="background:#161B22; padding:10px 15px; border-bottom:1px solid #30363D">
+        <span style="color:#FF5F56; font-size:14px">●</span>
+        <span style="color:#FFBD2E; font-size:14px; margin-left:4px">●</span>
+        <span style="color:#27C93F; font-size:14px; margin-left:4px">●</span>
+        <span style="color:#8B949E; font-family:monospace; font-size:12px; margin-left:12px">rohith@mvgr-cse: ~/dev-environment</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px; font-family:monospace; color:#58A6FF">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF5E00&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+PONTAPALLI+ROHITH;%F0%9F%A4%96+AI-Native+Student+Developer+%40+MVGR+CSE;%F0%9F%94%A5+Pair+Programming+with+Claude+%26+Gemini;%E2%88%9E+Infinite+Ideas+per+Problem+%E2%86%92+Live+Apps" alt="Rohith Terminal Header" />
+      </td>
+    </tr>
+  </table>
 
-  <p align="center">
-    <strong>3rd Year B.Tech Computer Science Engineering Student @ MVGR College</strong><br/>
-    <em>Building full-stack web applications and AI agent systems through rapid AI pair programming.</em>
-  </p>
+  <br/>
 
-  <!-- INTERACTIVE OFFICIAL BADGES -->
+  <!-- QUICK ACTION SHIELDS -->
   <p align="center">
     <a href="https://rohith-shimori.github.io/portfolio/">
       <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-rohith--shimori.github.io-FF5E00?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -28,19 +39,19 @@
 
 <br/>
 
-<!-- INTERACTIVE CODE CARD -->
-```javascript
-const Rohith = {
-  status: "3rd Year B.Tech Computer Science Student @ MVGR College",
-  mindset: "Infinite Ideas per Problem (∞)",
-  methodology: "AI-Native Pair Programming (Claude & Gemini)",
-  coreStack: ["React", "Python", "JavaScript", "Supabase", "PostgreSQL", "TailwindCSS"],
-  livePlatforms: [
-    "https://nccdigi.vercel.app",
-    "https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"
-  ],
-  quote: "Whenever I face a problem, I pair with AI to build and deploy a real solution."
-};
+### 🖥️ `neofetch` System Overview
+
+```
+                      ROHITH@MVGR-CSE
+  /\_/\               ---------------
+ ( o.o )              OS: AI-Native Engineering OS v2.5
+  > ^ <               Host: Pontapalli Rohith (3rd Year CSE)
+                      Institution: MVGR College of Engineering (GPA: 8.6)
+                      Kernel: Pair Programming (Claude & Gemini Engine)
+                      Uptime: 2+ Live Production Systems Deployed
+                      Ideation: ∞ Infinite Ideas per Problem
+                      Shell: zsh / FastMCP Protocol
+                      Core Stack: React 19 • Python • Supabase • Postgres • Tailwind
 ```
 
 ---
