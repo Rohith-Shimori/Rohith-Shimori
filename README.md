@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- MARQUEE TICKER SVG BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=E05315&center=true&vCenter=true&width=850&height=40&lines=3RD+YEAR+CSE+%E2%80%94+MVGR+COLLEGE+%E2%97%86+AI-NATIVE+STUDENT+DEVELOPER+%E2%97%86+NCCDIGI.VERCEL.APP+%E2%97%86+TRUTHLENS+KAGGLE+CAPSTONE+%E2%97%86+REACT+19+%26+SUPABASE+%E2%97%86+GOOGLE+ADK+2.0+%26+GEMINI+2.5" alt="Ticker Tape" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=E05315&center=true&vCenter=true&width=850&height=40&lines=3RD+YEAR+CSE+%E2%80%94+MVGR+COLLEGE+%E2%97%86+AI-NATIVE+STUDENT+DEVELOPER+%E2%97%86+ROHITH.IS-A.DEV+%E2%97%86+TRUTHLENS+KAGGLE+CAPSTONE+%E2%97%86+REACT+19+%26+SUPABASE+%E2%97%86+GOOGLE+ADK+2.0+%26+GEMINI+2.5" alt="Ticker Tape" />
 
   <br/><br/>
 
@@ -16,8 +16,8 @@
           Architecting production web applications, multi-agent AI systems, and mobile platforms. Leveraging AI pair programming with Claude and Gemini to turn complex domain problems into shipped software.
         </p>
         <div style="display:flex; gap:12px; flex-wrap:wrap">
-          <a href="https://rohith-shimori.github.io/portfolio/">
-            <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-rohith--shimori.github.io-E05315?style=for-the-badge&logoColor=white" alt="Portfolio" />
+          <a href="https://rohith.is-a.dev">
+            <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-rohith.is--a.dev-E05315?style=for-the-badge&logoColor=white" alt="Portfolio" />
           </a>
           <a href="https://in.linkedin.com/in/pontapalli-rohith">
             <img src="https://img.shields.io/badge/LINKEDIN-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -101,7 +101,7 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 > [02] Directing Claude & Gemini AI Agents via FastMCP Protocol...
 > [03] Architecting PostgreSQL Schema, Supabase RLS & React 19 UI...
 > [04] Executing automated tests and verifying runtime assertions...
-> [STATUS] Deployed to production live. 🚀
+> [STATUS] Deployed to production live @ https://rohith.is-a.dev 🚀
 ```
 
 ---
