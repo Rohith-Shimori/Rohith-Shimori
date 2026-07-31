@@ -19,6 +19,9 @@
           <a href="https://rohith.is-a.dev">
             <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-rohith.is--a.dev-E05315?style=for-the-badge&logoColor=white" alt="Portfolio" />
           </a>
+          <a href="https://rohith.is-a.dev/resume.html">
+            <img src="https://img.shields.io/badge/RESUME-Interactive_CV-10B981?style=for-the-badge&logoColor=white" alt="Resume" />
+          </a>
           <a href="https://in.linkedin.com/in/pontapalli-rohith">
             <img src="https://img.shields.io/badge/LINKEDIN-Pontapalli_Rohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
           </a>
