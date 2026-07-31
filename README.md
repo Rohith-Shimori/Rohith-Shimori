@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- MARQUEE TICKER SVG BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=E05315&center=true&vCenter=true&width=850&height=40&lines=3RD+YEAR+CSE+%E2%80%94+MVGR+COLLEGE+%E2%97%86+AI-NATIVE+STUDENT+DEVELOPER+%E2%97%86+ROHITH.IS-A.DEV+%E2%97%86+TRUTHLENS+KAGGLE+CAPSTONE+%E2%97%86+REACT+19+%26+SUPABASE+%E2%97%86+MULTI-AGENT+AI+%26+FASTMCP" alt="Ticker Tape" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=E05315&center=true&vCenter=true&width=850&height=40&lines=3RD+YEAR+COMPUTER+SCIENCE+STUDENT+%E2%97%86+FULL-STACK+%26+AI+DEVELOPER+%E2%97%86+ROHITH.IS-A.DEV+%E2%97%86+TRUTHLENS+KAGGLE+CAPSTONE+%E2%97%86+REACT+19+%26+SUPABASE" alt="Ticker Tape" />
 
   <br/><br/>
 
@@ -11,9 +11,9 @@
       <td>
         <div style="font-family:monospace; font-size:12px; color:#E05315; font-weight:700; letter-spacing:2px; margin-bottom:8px">// SYSTEM_IDENTITY</div>
         <h1 style="font-family:sans-serif; font-size:32px; font-weight:800; color:#F4F4F5; margin:0 0 8px 0">PONTAPALLI ROHITH</h1>
-        <div style="font-family:sans-serif; font-size:16px; color:#9DA3AE; margin-bottom:16px">AI-Native Developer &amp; Student Engineer &bull; 3rd Year B.Tech CSE @ MVGR College</div>
+        <div style="font-family:sans-serif; font-size:16px; color:#9DA3AE; margin-bottom:16px">Full-Stack &amp; AI Developer &bull; 3rd Year B.Tech Computer Science</div>
         <p style="font-family:sans-serif; font-size:14px; color:#D4D4D8; line-height:1.7; margin-bottom:20px">
-          Architecting production web applications, multi-agent AI systems, and mobile platforms. Combining modern software engineering with state-of-the-art LLM workflows to turn complex domain problems into shipped software.
+          Building production web applications, developer tools, and AI software. Focused on clean architecture, responsive user interfaces, and shipping fast, reliable products.
         </p>
         <div style="display:flex; gap:12px; flex-wrap:wrap">
           <a href="https://rohith.is-a.dev">
@@ -39,13 +39,13 @@
 
 ---
 
-### [01] // FEATURED_PRODUCTION_SYSTEMS
+### [01] // FEATURED_PROJECTS
 
 <table width="100%" style="border-collapse:collapse; border:none">
   <tr>
     <td width="50%" valign="top" style="padding:12px">
       <div style="background:#121215; border:1px solid #27272A; border-radius:12px; padding:20px; height:100%">
-        <div style="font-family:monospace; font-size:11px; color:#E05315; font-weight:700; margin-bottom:6px">SYSTEM // 01 &bull; PRODUCTION PWA</div>
+        <div style="font-family:monospace; font-size:11px; color:#E05315; font-weight:700; margin-bottom:6px">PROJECT // 01 &bull; PRODUCTION PWA</div>
         <h3 style="font-family:sans-serif; font-size:18px; font-weight:800; color:#F4F4F5; margin:0 0 12px 0">NCC Digital Training Platform</h3>
         <a href="https://nccdigi.vercel.app">
           <img src="https://raw.githubusercontent.com/Rohith-Shimori/portfolio/main/ncc_real.png" width="100%" style="border-radius:8px; margin-bottom:14px; border:1px solid #27272A" alt="NCC Platform Preview" />
@@ -68,23 +68,23 @@
     </td>
     <td width="50%" valign="top" style="padding:12px">
       <div style="background:#121215; border:1px solid #27272A; border-radius:12px; padding:20px; height:100%">
-        <div style="font-family:monospace; font-size:11px; color:#E05315; font-weight:700; margin-bottom:6px">SYSTEM // 02 &bull; KAGGLE CAPSTONE</div>
+        <div style="font-family:monospace; font-size:11px; color:#E05315; font-weight:700; margin-bottom:6px">PROJECT // 02 &bull; KAGGLE CAPSTONE</div>
         <h3 style="font-family:sans-serif; font-size:18px; font-weight:800; color:#F4F4F5; margin:0 0 12px 0">TruthLens AI Agent</h3>
         <a href="https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent">
           <img src="https://raw.githubusercontent.com/Rohith-Shimori/portfolio/main/truthlens_real.png" width="100%" style="border-radius:8px; margin-bottom:14px; border:1px solid #27272A" alt="TruthLens Preview" />
         </a>
         <p style="font-family:sans-serif; font-size:13px; color:#9DA3AE; line-height:1.6; margin-bottom:16px">
-          Enterprise 7-agent multimodal fact verification &amp; deepfake detection pipeline built for the Kaggle &times; Google AI Agents Capstone. Features automated evidence harvesting and FastMCP protocol.
+          Multimodal fact verification &amp; deepfake detection pipeline built for the Kaggle &times; Google AI Agents Capstone. Features automated evidence harvesting and FastMCP protocol.
         </p>
         <div style="margin-bottom:16px">
           <a href="https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent"><b>HUGGINGFACE SPACE ↗</b></a> &nbsp;|&nbsp; 
           <a href="https://github.com/Rohith-Shimori"><b>SOURCE CODE ↗</b></a>
         </div>
         <div>
-          <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=flat-square&logo=python&logoColor=black" />
-          <img src="https://img.shields.io/badge/Multimodal_LLMs-8E75FF?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI_Agents-8E75FF?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gradio-FF5500?style=flat-square&logo=gradio&logoColor=white" />
         </div>
       </div>
     </td>
@@ -93,32 +93,19 @@
 
 ---
 
-### [02] // WORKFLOW_TELEMETRY
-
-```bash
-$ npx rohith-ideation-engine --prompt="Identify friction point"
-> [01] Problem Context Isolated.
-> [02] Directing Multi-Agent AI Workflows via FastMCP Protocol...
-> [03] Architecting PostgreSQL Schema, Supabase RLS & React 19 UI...
-> [04] Executing automated tests and verifying runtime assertions...
-> [STATUS] Deployed to production live @ https://rohith.is-a.dev 🚀
-```
-
----
-
-### [03] // CAPABILITIES_&_TECH_MATRIX
+### [02] // TECHNICAL_STACK
 
 <div align="center">
 
 <br/>
 
-| Domain | Stack & Skill Badges |
+| Domain | Tech Stack |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres" alt="Languages" /> |
 | **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" /> |
 | **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" alt="Backend" /> |
 | **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
-| **AI Agents & MCP** | <img src="https://img.shields.io/badge/Multi_Agent_Systems-10B981?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/LLM_Orchestration-6366F1?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=for-the-badge&logo=python&logoColor=black" /> |
+| **AI & Protocols** | <img src="https://img.shields.io/badge/AI_Agents-10B981?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=for-the-badge&logo=python&logoColor=black" /> |
 
 </div>
 
@@ -128,5 +115,5 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E05315,100:0B0B0C&height=100&section=footer" width="100%" alt="Footer Wave" />
   <br/>
-  <sub style="font-family:monospace; color:#9DA3AE"><b>ENGINEERED BY PONTAPALLI ROHITH</b></sub>
+  <sub style="font-family:monospace; color:#9DA3AE"><b>PONTAPALLI ROHITH</b></sub>
 </div>
