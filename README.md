@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- MARQUEE TICKER SVG BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=E05315&center=true&vCenter=true&width=850&height=40&lines=3RD+YEAR+CSE+%E2%80%94+MVGR+COLLEGE+%E2%97%86+AI-NATIVE+STUDENT+DEVELOPER+%E2%97%86+ROHITH.IS-A.DEV+%E2%97%86+TRUTHLENS+KAGGLE+CAPSTONE+%E2%97%86+REACT+19+%26+SUPABASE+%E2%97%86+GOOGLE+ADK+2.0+%26+GEMINI+2.5" alt="Ticker Tape" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=E05315&center=true&vCenter=true&width=850&height=40&lines=3RD+YEAR+CSE+%E2%80%94+MVGR+COLLEGE+%E2%97%86+AI-NATIVE+STUDENT+DEVELOPER+%E2%97%86+ROHITH.IS-A.DEV+%E2%97%86+TRUTHLENS+KAGGLE+CAPSTONE+%E2%97%86+REACT+19+%26+SUPABASE+%E2%97%86+MULTI-AGENT+AI+%26+FASTMCP" alt="Ticker Tape" />
 
   <br/><br/>
 
@@ -13,7 +13,7 @@
         <h1 style="font-family:sans-serif; font-size:32px; font-weight:800; color:#F4F4F5; margin:0 0 8px 0">PONTAPALLI ROHITH</h1>
         <div style="font-family:sans-serif; font-size:16px; color:#9DA3AE; margin-bottom:16px">AI-Native Developer &amp; Student Engineer &bull; 3rd Year B.Tech CSE @ MVGR College</div>
         <p style="font-family:sans-serif; font-size:14px; color:#D4D4D8; line-height:1.7; margin-bottom:20px">
-          Architecting production web applications, multi-agent AI systems, and mobile platforms. Leveraging AI pair programming with Claude and Gemini to turn complex domain problems into shipped software.
+          Architecting production web applications, multi-agent AI systems, and mobile platforms. Combining modern software engineering with state-of-the-art LLM workflows to turn complex domain problems into shipped software.
         </p>
         <div style="display:flex; gap:12px; flex-wrap:wrap">
           <a href="https://rohith.is-a.dev">
@@ -82,9 +82,9 @@
         </div>
         <div>
           <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=flat-square&logo=python&logoColor=black" />
+          <img src="https://img.shields.io/badge/Multimodal_LLMs-8E75FF?style=flat-square&logo=openai&logoColor=white" />
         </div>
       </div>
     </td>
@@ -98,7 +98,7 @@
 ```bash
 $ npx rohith-ideation-engine --prompt="Identify friction point"
 > [01] Problem Context Isolated.
-> [02] Directing Claude & Gemini AI Agents via FastMCP Protocol...
+> [02] Directing Multi-Agent AI Workflows via FastMCP Protocol...
 > [03] Architecting PostgreSQL Schema, Supabase RLS & React 19 UI...
 > [04] Executing automated tests and verifying runtime assertions...
 > [STATUS] Deployed to production live @ https://rohith.is-a.dev 🚀
@@ -118,7 +118,7 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
 | **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" /> |
 | **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" alt="Backend" /> |
 | **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
-| **AI Agents & MCP** | <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=for-the-badge&logo=python&logoColor=black" /> |
+| **AI Agents & MCP** | <img src="https://img.shields.io/badge/Multi_Agent_Systems-10B981?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/LLM_Orchestration-6366F1?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=for-the-badge&logo=python&logoColor=black" /> |
 
 </div>
 
@@ -128,5 +128,5 @@ $ npx rohith-ideation-engine --prompt="Identify friction point"
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E05315,100:0B0B0C&height=100&section=footer" width="100%" alt="Footer Wave" />
   <br/>
-  <sub style="font-family:monospace; color:#9DA3AE"><b>ENGINEERED BY PONTAPALLI ROHITH WITH AI PAIR PROGRAMMING</b></sub>
+  <sub style="font-family:monospace; color:#9DA3AE"><b>ENGINEERED BY PONTAPALLI ROHITH</b></sub>
 </div>
