@@ -44,14 +44,13 @@
 
 ```yaml
 identity: Pontapalli Rohith
-education: B.Tech Computer Science (3rd Year @ MVGR College of Engineering)
-location: Vizianagaram / Visakhapatnam, Andhra Pradesh, India
+education: B.Tech Computer Science (3rd Year)
 tagline: "Curious enough to build it. Persistent enough to finish it. ↻"
 focus_areas:
   - Full-Stack Web Applications (React 19, Supabase, PostgreSQL)
   - Mobile Development (Flutter & Dart for Android)
   - Agentic AI & Protocols (FastMCP, Python, Multi-Agent Systems)
-philosophy: Building real-world software experiments, learning continuously, and shipping live to production.
+philosophy: Stay curious. Question assumptions. Build what matters.
 ```
 
 ---
