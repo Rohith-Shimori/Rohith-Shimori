@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DYNAMIC ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E05315,100:121215&height=180&section=header&text=PONTAPALLI%20ROHITH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Curious%20enough%20to%20build%20it.%20Persistent%20enough%20to%20finish%20it.&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Rohith Hero Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E05315,100:121215&height=180&section=header&text=PONTAPALLI%20ROHITH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Rohith Hero Header" />
 
   <br/>
 
