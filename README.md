@@ -59,7 +59,7 @@
           <img src="https://raw.githubusercontent.com/Rohith-Shimori/portfolio/main/ncc_real.png" width="100%" style="border-radius:8px; margin-bottom:12px; border:1px solid #27272A" alt="NCC Platform Preview" />
         </a>
         <p style="font-family:sans-serif; font-size:13px; color:#9DA3AE; line-height:1.6; margin-bottom:14px">
-          Full-stack web app built solo to digitize National Cadet Corps training workflows, syllabus tracking, and mock exams. Structured Supabase/PostgreSQL schema with Row-Level Security (RLS). Deployed live on Vercel.
+          Full-stack web app built end-to-end to digitize National Cadet Corps training workflows, syllabus tracking, and mock exams. Structured Supabase/PostgreSQL schema with Row-Level Security (RLS). Deployed live on Vercel.
         </p>
         <div style="margin-bottom:14px">
           <a href="https://nccdigi.vercel.app"><b>LIVE DEMO ↗</b></a> &nbsp;|&nbsp; 
