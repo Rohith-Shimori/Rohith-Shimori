@@ -45,6 +45,7 @@
 ```yaml
 identity: Pontapalli Rohith
 education: B.Tech Computer Science (3rd Year)
+location: India
 tagline: "Curious enough to build it. Persistent enough to finish it. ↻"
 focus_areas:
   - Full-Stack Web Applications (React 19, Supabase, PostgreSQL)
