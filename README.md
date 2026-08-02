@@ -47,6 +47,10 @@ identity: Pontapalli Rohith
 education: B.Tech Computer Science (3rd Year)
 location: India
 tagline: "Curious enough to build it. Persistent enough to finish it. ↻"
+current_focus_2026:
+  - Building full-stack React 19 + Supabase PWAs (nccdigi.vercel.app)
+  - Engineering FastMCP multi-agent AI pipelines (TruthLens AI Agent)
+  - Shipping cross-platform Flutter mobile applications (MVGR NexUs)
 focus_areas:
   - Full-Stack Web Applications (React 19, Supabase, PostgreSQL)
   - Mobile Development (Flutter & Dart for Android)
