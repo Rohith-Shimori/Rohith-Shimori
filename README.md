@@ -32,9 +32,8 @@ Everything I've built and documented lives on **[rohith.is-a.dev](https://rohith
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=13&pause=1500&color=9DA3AE&center=true&vCenter=true&width=560&height=26&lines=%3E+why+is+there+a+semicolon+missing+on+line+847...;%3E+AHA!+bug+squashed!+zero+bugs+remaining+in+production!;%3E+git+push+%E2%86%92+deployed+%E2%86%92+me+happy;%3E+fueled+by+curiosity+%26+tea" alt="Rotating status" />
 </div>
 
-<div align="center">
-  <img src="https://pulse.rohith.is-a.dev" width="440" alt="Live Pulse — now playing + visitor count, merged" />
-</div>
+<!-- LIVE PULSE (Uncomment below image after deploying Cloudflare Worker script in worker.js to pulse.rohith.is-a.dev) -->
+<!-- <div align="center"><img src="https://pulse.rohith.is-a.dev" width="440" alt="Live Pulse — now playing + visitor count" /></div> -->
 
 <br/>
 
@@ -54,7 +53,12 @@ Everything I've built and documented lives on **[rohith.is-a.dev](https://rohith
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohith-Shimori&show_icons=true&theme=dark&bg_color=0B0B0C&title_color=E05315&text_color=9DA3AE&icon_color=E05315&border_color=27272A&hide_border=false&hide=prs,issues" width="50%" alt="GitHub Stats" />
+<!-- HIGH-RELIABILITY GITHUB CONTRIBUTION & STREAK ANALYTICS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Shimori&theme=dark&background=0B0B0C&border=27272A&stroke=E05315&ring=E05315&fire=E05315&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=9DA3AE" width="90%" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-Shimori&theme=react-dark&bg_color=0B0B0C&color=E05315&line=E05315&point=F4F4F5&hide_border=false" width="90%" alt="GitHub Activity Graph" />
 
 </div>
 
