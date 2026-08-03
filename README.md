@@ -10,26 +10,26 @@
 
   <br/><br/>
 
-  <a href="https://rohith.is-a.dev"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-rohith.is--a.dev-E05315?style=flat-square&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://rohith.is-a.dev/cv.html"><img src="https://img.shields.io/badge/📄_WEB_CV-view-10B981?style=flat-square&logoColor=white" alt="Web CV" /></a>
-  <a href="https://www.linkedin.com/in/pontapalli-rohith/"><img src="https://img.shields.io/badge/🔗_LINKEDIN-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://rohith.is-a.dev"><img src="https://img.shields.io/badge/PORTFOLIO-rohith.is--a.dev-E05315?style=flat-square&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://rohith.is-a.dev/cv.html"><img src="https://img.shields.io/badge/WEB_CV-view-10B981?style=flat-square&logoColor=white" alt="Web CV" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pontapalli-rohith/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
 <br/>
 
-Building full-stack apps, mobile tools, and AI agent workflows — turning curiosity into things that actually work. Everything I've shipped lives on **[my portfolio](https://rohith.is-a.dev)** — this is just the quick version.
+Computer Science Student based in India. Building software, mobile applications, and AI agent workflows — turning curiosity into clean, functional tools that solve real problems.
+
+Everything I've built and documented lives on **[rohith.is-a.dev](https://rohith.is-a.dev)** — this page is a quick overview of what I'm currently shipping.
 
 <br/>
 
-### 💻 `LIVE_STATUS.SH`
-
-```bash
-rohith@dev:~$ whoami
-```
+### // LIVE_STATUS
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=13&pause=1500&color=9DA3AE&center=true&vCenter=true&width=560&height=26&lines=%3E+why+is+there+a+semicolon+missing+on+line+847...;%3E+AHA!+bug+squashed!+zero+bugs+remaining+in+production!;%3E+git+push+%E2%86%92+deployed+%E2%86%92+me+happy;%3E+fueled+by+curiosity+%26+espresso" alt="Rotating status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=13&pause=1500&color=9DA3AE&center=true&vCenter=true&width=560&height=26&lines=%3E+why+is+there+a+semicolon+missing+on+line+847...;%3E+AHA!+bug+squashed!+zero+bugs+remaining+in+production!;%3E+git+push+%E2%86%92+deployed+%E2%86%92+me+happy;%3E+fueled+by+curiosity+%26+tea" alt="Rotating status" />
 </div>
 
 <div align="center">
@@ -38,14 +38,13 @@ rohith@dev:~$ whoami
 
 <br/>
 
-### 🟢 `SHIPPING_NOW`
+### // FEATURED_BUILDS
 
-🎖️ **[NCC Digital Training Platform](https://nccdigi.vercel.app)** — full-stack Supabase PWA, live  
-🔍 **[TruthLens AI Agent](https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent)** — FastMCP agent, live demo  
+◆ **[NCC Digital Training Platform](https://nccdigi.vercel.app)** — Full-stack React 19 + Supabase PWA digitizing cadet training workflows, drill exams, and attendance.  
+◆ **[TruthLens AI Agent](https://huggingface.co/spaces/Rohith-Shimori/TruthLens-AI-Agent)** — Multi-agent analysis pipeline built with FastMCP for Kaggle × Google's 5-Day AI Agents Capstone.  
+◆ **[MVGR NexUs](https://github.com/Rohith-Shimori/MVGR-NexUs)** — Cross-platform Flutter Android app unifying campus notifications; awarded TechSprint 2026 Certificate of Excellence.  
 
-*Full case studies, architecture, and the rest of the build → [rohith.is-a.dev](https://rohith.is-a.dev)*
-
-<sub>fun fact: I wrote a 240-line spec doc just to plan this README before writing a word of it</sub>
+*Explore full problem-solution case studies, architecture, and live demos → [rohith.is-a.dev](https://rohith.is-a.dev)*
 
 <br/>
 
@@ -65,6 +64,6 @@ rohith@dev:~$ whoami
 
   <img src="https://raw.githubusercontent.com/Rohith-Shimori/portfolio/main/mascot_need_sleep.png" width="110" alt="Mini Roh Need Sleep" />
   <br/>
-  <sub style="color:#9DA3AE">© 2026 Pontapalli Rohith</sub>
+  <sub style="color:#9DA3AE">© 2026 Pontapalli Rohith &bull; Curious enough to build it. Persistent enough to finish it. ↻</sub>
 
 </div>
