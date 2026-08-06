@@ -12,9 +12,9 @@
 
   <a href="https://rohith.is-a.dev"><img src="https://img.shields.io/badge/PORTFOLIO-rohith.is--a.dev-E05315?style=flat-square&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://rohith.is-a.dev/cv.html"><img src="https://img.shields.io/badge/WEB_CV-view-10B981?style=flat-square&logoColor=white" alt="Web CV" /></a>
+  <a href="https://cv.rohith.is-a.dev"><img src="https://img.shields.io/badge/WEB_CV-cv.rohith.is--a.dev-10B981?style=flat-square&logoColor=white" alt="Web CV" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/pontapalli-rohith/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://li.rohith.is-a.dev"><img src="https://img.shields.io/badge/LINKEDIN-li.rohith.is--a.dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
